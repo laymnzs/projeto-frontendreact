@@ -1,0 +1,62 @@
+ [
+{
+  "id": "1",
+  "nome": "Astronauta e a Terra",
+  "preco": 50.90,
+  "url": "https://http2.mlstatic.com/D_NQ_NP_664989-MLB50341479659_062022-W.jpg"
+},
+{
+  "id": "02",
+  "nome": "Nave Espacial me leva",
+  "preco": 49.90,
+  "url": "https://shop.darrudadesign.com/wp-content/uploads/2018/06/takeme_pleasepreto1.png"
+},
+{
+  "id": "3",
+  "nome": "Astronauta Pescador",
+  "preco": 45.90,
+  "url": "https://cf.shopee.com.br/file/441ed732a807906793fd895ff56693cc"
+},
+{
+  "id": "4",
+  "nome": "Sorvete Espacial",
+  "preco": 50.00,
+  "url": "https://ae01.alicdn.com/kf/H74cdcf17e75645e2bb4ee18b6567ffd4U/Camiseta-de-los-astronautas-del-espacio-para-ni-os-camisetas-cortas-para-ni-as-chaleco-ropa.jpg_640x640.jpg"
+},
+{
+  "id": "5",
+  "nome": "Correndo no Espaço",
+  "preco": 30.00,
+  "url": "https://ae01.alicdn.com/kf/Hfe7cb8353a19492fbd038d43926445c67.jpg"
+},
+{
+  "id": "6",
+  "nome": "Malabarista Espacial",
+  "preco": 45.90,
+  "url": "https://ae01.alicdn.com/kf/HTB1mswtKY2pK1RjSZFsq6yNlXXaL/Espacio-circo-camiseta-hombres-Crazy-camiseta-astronauta-Tops-y-camisetas-fiesta-camisetas-negro-manga-corta-ropa.jpg_Q90.jpg_.webp"
+},
+{
+  "id": "7",
+  "nome": "Festa no Espaço",
+  "preco": 25.90,
+  "url": "https://m.media-amazon.com/images/I/A13usaonutL._AC_CLa%7C2140%2C2000%7C91QqTEz5lOL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_UY1000_.png"
+},
+{
+  "id": "8",
+  "nome": "Astronauta Esqueleto",
+  "preco": 20.00,
+  "url": "https://cf.shopee.com.br/file/89a166122621951d3d96b1b37139068e_tn"
+},
+{
+  "id": "9",
+  "nome": "Astronauta na Bicicleta",
+  "preco": 45.90,
+  "url": "https://cf.shopee.com.br/file/0f7eed323bcf49b9b391528e78e99032_tn"
+},
+{
+  "id": "10",
+  "nome": "ET e seu amigo Astronauta",
+  "preco": 20.00,
+  "url": "https://http2.mlstatic.com/D_NQ_NP_783644-MLB50432335593_062022-W.jpg"
+}
+]
